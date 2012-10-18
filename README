@@ -3,3 +3,7 @@ and give occurance of numbers by percent.
 
 The other crawls craigslist sites from multiple cities for jobs, or 
 anything else, by keyword and save those pages for you to view later
+
+Update 10-18-12:
+
+After looking at the craigslist parse I think it should be refactored to be a command line tool.
